@@ -2,7 +2,9 @@ Name,Type,Subtype,Color,Brand,Counter,Photo
 Navy Sweats,Bottom,Sweatpants,Navy,Garage,1,clothing_photos/navy_sweats.jpg
 White and Blue Angel Top,Top,'Tee',"White, Light Blue",Brandy Melville,1,clothing_photos/brandytop.jpg
 Moccasins,Shoes,Slippers,Tan,Minnetonka,1,clothing_photos/slippers.jpg
-Roxy Sneakers,Shoes,Sneakers,White,Roxy,0,clothing_photos/roxysneakers.jpg
-Brooklyn 28,Bag,Purse,Brown,Coach,1,clothing_photos/brooklyn28.jpg
-trouserjeans,Bottom,Jeans,Dark Denim,JCrew,1,clothing_photos/trouserjeans.jpg
-White Scoop Sweater,Top,Sweater,White,Aritzia,0,clothing_photos/whitescoopsweater.jpg
+Roxy Sneakers,Shoes,Sneakers,White,Roxy,1,clothing_photos/roxysneakers.jpg
+Brooklyn 28,Bag,Purse,Brown,Coach,2,clothing_photos/brooklyn28.jpg
+Trouser Jeans,Bottom,Jeans,Dark Denim,JCrew,2,clothing_photos/trouserjeans.jpg
+White Scoop Sweater,Top,Sweater,White,Aritzia,1,clothing_photos/whitescoopsweater.jpg
+Pearl Hoops,Jewelry,Earrings,Gold,Unknown,1,clothing_photos/pearlhoops.jpg
+Small Gold Necklace,Jewelry,Necklace,Gold,Unknown,1,clothing_photos/smallgoldnecklace.jpg
