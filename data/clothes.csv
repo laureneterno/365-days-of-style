@@ -1,18 +1,24 @@
 Name,Type,Subtype,Color,Brand,Counter,Photo
-Navy Sweats,Bottom,Sweatpants,Navy,Garage,2,clothing_photos/navy_sweats.jpg
+Navy Sweats,Bottom,Sweatpants,Navy,Garage,3,clothing_photos/navy_sweats.jpg
 White and Blue Angel Top,Top,Tee,"White, Light Blue",Brandy Melville,1,clothing_photos/brandytop.jpg
 Moccasins,Shoes,Slippers,Tan,Minnetonka,5,clothing_photos/slippers.jpg
 Roxy Sneakers,Shoes,Sneakers,White,Roxy,2,clothing_photos/roxysneakers.jpg
 Brooklyn 28,Bag,Purse,Brown,Coach,1,clothing_photos/brooklyn28.jpg
 Trouser Jeans,Bottom,Jeans,Dark Denim,JCrew,1,clothing_photos/trouserjeans.jpg
 White Scoop Sweater,Top,Sweater,White,Aritzia,1,clothing_photos/whitescoopsweater.jpg
-Pearl Hoops,Jewelry,Earrings,Gold,Unknown,2,clothing_photos/pearlhoops.jpg
+Pearl Hoops,Jewelry,Earrings,Gold,Unknown,4,clothing_photos/pearlhoops.jpg
 Small Gold Necklace,Jewelry,Necklace,Gold,Unknown,1,clothing_photos/smallgoldnecklace.jpg
 Pink Glossier Hoodie,Top,Sweatshirt,Pink,Glossier,2,clothing_photos/pinkglossierhoodie.jpg
 Navy Rosa Sweatpants,Bottom,Sweatpants,Navy,Brandy Melville,4,clothing_photos/navyrosasweatpants.jpg
-Navy Souvenir Pant,Bottom,Sweatpants,Navy,Aritzia,1,clothing_photos/navy_souvenir_pant.jpg
+Navy Souvenir Pant,Bottom,Sweatpants,Navy,Aritzia,3,clothing_photos/navy_souvenir_pant.jpg
 Navy Cropped Cashmere Sweater,Top,Sweater,Navy,JCrew,1,clothing_photos/navy_cashmere_cropped_sweater.jpg
 White Tuckable High Neck Tank,Top,Tank,White,Abercrombie,1,clothing_photos/white_tuckable_high_neck_tank.jpg
 Gold Pearl Necklace,Jewelry,Necklace,Gold,Unknown,1,clothing_photos/gold_pearl_necklace.jpg
 Light Blue Crewneck Sweatshirt,Top,Sweatshirt,Light Blue,Unknown,2,clothing_photos/light_blue_crewneck_sweatshirt.jpg
 White Crystal Sweatshirt,Top,Sweatshirt,White,Brandy Melville,1,clothing_photos/white_rosa_sweatshirt.jpg
+White Aritzia Tank,Top,Tank,White,Aritzia,0,clothing_photos/white_homestretch_tank.jpg
+White High Top Converse,Shoes,Sneakers,White,Converse,3,clothing_photos/high_top_converse.jpg
+White Bomber Jacket,Outerwear,Jacket,White,Victoria's Secret,1,clothing_photos/white_bomber_jacket.jpg
+White Mock Neck,Top,Long-Sleeve,White,Pacsun,1,clothing_photos/white_mock_neck_top.jpg
+Polo Bear Sweater,Top,Sweater,Navy,Ralph Lauren,1,clothing_photos/polo_bear_sweater.jpg
+Pearl Necklace,Jewelry,Necklace,Gold,Unknown,1,clothing_photos/pearl_necklace_gold.jpg
